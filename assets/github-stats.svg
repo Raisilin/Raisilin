@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="236" viewBox="0 0 720 236" role="img">
+  <title>Публичная статистика GitHub · Raisilin</title>
+  <desc>Репозитории: 11, Подписчики: 2, Звёзды: 0, Форки: 0</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2=".8">
+      <stop stop-color="#2d1745"/><stop offset="1" stop-color="#131d36"/>
+    </linearGradient>
+    <clipPath id="language-bar"><rect x="34" y="150" width="652" height="8" rx="4"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="718" height="234" rx="13" fill="url(#background)" stroke="#493768" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+  <rect x="34" y="28" width="154" height="77" rx="10" fill="#251a3e" stroke="#493768"/>
+  <rect x="46" y="41" width="12" height="3" rx="1.5" fill="#f991cf"/>
+  <text x="46" y="67" fill="#f991cf" font-size="25" font-weight="700">11</text>
+  <text x="46" y="88" fill="#e9dcfa" font-size="15">Репозитории</text>
+  <rect x="200" y="28" width="154" height="77" rx="10" fill="#251a3e" stroke="#493768"/>
+  <rect x="212" y="41" width="12" height="3" rx="1.5" fill="#80e9dd"/>
+  <text x="212" y="67" fill="#80e9dd" font-size="25" font-weight="700">2</text>
+  <text x="212" y="88" fill="#e9dcfa" font-size="15">Подписчики</text>
+  <rect x="366" y="28" width="154" height="77" rx="10" fill="#251a3e" stroke="#493768"/>
+  <rect x="378" y="41" width="12" height="3" rx="1.5" fill="#b79aff"/>
+  <text x="378" y="67" fill="#b79aff" font-size="25" font-weight="700">0</text>
+  <text x="378" y="88" fill="#e9dcfa" font-size="15">Звёзды</text>
+  <rect x="532" y="28" width="154" height="77" rx="10" fill="#251a3e" stroke="#493768"/>
+  <rect x="544" y="41" width="12" height="3" rx="1.5" fill="#ffc189"/>
+  <text x="544" y="67" fill="#ffc189" font-size="25" font-weight="700">0</text>
+  <text x="544" y="88" fill="#e9dcfa" font-size="15">Форки</text>
+  <text x="34" y="133" fill="#f7efff" font-size="16" font-weight="600">Языки по числу репозиториев</text>
+  <g clip-path="url(#language-bar)">
+  <rect x="34" y="150" width="290" height="8" fill="#f991cf"/>
+  <rect x="324" y="150" width="145" height="8" fill="#80e9dd"/>
+  <rect x="469" y="150" width="145" height="8" fill="#b79aff"/>
+  <rect x="614" y="150" width="72" height="8" fill="#ffc189"/>
+  </g>
+  <circle cx="38" cy="180" r="4" fill="#f991cf"/>
+  <text x="49" y="185" fill="#e9dcfa" font-size="15">HTML <tspan fill="#bcb0d2">· 4</tspan></text>
+  <circle cx="258" cy="180" r="4" fill="#80e9dd"/>
+  <text x="269" y="185" fill="#e9dcfa" font-size="15">CSS <tspan fill="#bcb0d2">· 2</tspan></text>
+  <circle cx="478" cy="180" r="4" fill="#b79aff"/>
+  <text x="489" y="185" fill="#e9dcfa" font-size="15">JavaScript <tspan fill="#bcb0d2">· 2</tspan></text>
+  <circle cx="38" cy="205" r="4" fill="#ffc189"/>
+  <text x="49" y="210" fill="#e9dcfa" font-size="15">C# <tspan fill="#bcb0d2">· 1</tspan></text>
+  </g>
+</svg>
